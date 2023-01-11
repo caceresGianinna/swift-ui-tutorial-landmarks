@@ -48,6 +48,7 @@
 		155F82A3296E18CA0083A0C8 /* LandmarksUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksUITestsLaunchTests.swift; sourceTree = "<group>"; };
 		1566B0B6296F3EFE007B511B /* CircleImage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleImage.swift; sourceTree = "<group>"; };
 		1566B0B8296F6FA3007B511B /* MapView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapView.swift; sourceTree = "<group>"; };
+		158C5FF7296F743B002DA52E /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -78,6 +79,7 @@
 		155F827A296E18C90083A0C8 = {
 			isa = PBXGroup;
 			children = (
+				158C5FF7296F743B002DA52E /* README.md */,
 				155F8285296E18C90083A0C8 /* Landmarks */,
 				155F8296296E18CA0083A0C8 /* LandmarksTests */,
 				155F82A0296E18CA0083A0C8 /* LandmarksUITests */,
