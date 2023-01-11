@@ -14,7 +14,7 @@ What I learned:
 - Use SwiftUI views, MapKit, from other frameworks
 - Compose the detail view by using the CircleImage, the text stack, and the map view
 
-![View](./tutorial-images/landmarks-view-1.png)
+![View](./tutorial-images/landmarks-view.png)
 
 
 
